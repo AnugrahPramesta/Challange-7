@@ -21,7 +21,7 @@ Berikut merupakan dokumentasi API yang telah dibuat:
     !![image](/img/getby_id.PNG)
 - Create New Book
   - Berhasil membuat data buku baru
-    ![image](/img/Post.PNG))
+    ![image](/img/Post.PNG)
 - Update Book By Id
   - Berhasil memperbarui data buku berdasarkan id yang telah terdaftar
     ![image](/img/Update.PNG)
